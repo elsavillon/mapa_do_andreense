@@ -176,7 +176,7 @@ var config = {
      image: "",
      description: "Não é só na “Rua dos Bancos” que tem prédio famoso não. A Rua Campos Sales é carinhosamente apelidada como a ˜Rua do Bradescão˜. O nome é autoexplicativo e os andreenses ainda a chamam por esse nome por conta do edifício da agência bancária",
      location: {
-       center: [-46.52530440584381, -23.64340651698245],
+       center: [-46.52852772883635,-23.654690101517414],
        zoom: 16.3,
        pitch: 72,
        bearing: 15.2,
