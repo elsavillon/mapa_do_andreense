@@ -1,5 +1,5 @@
 var config = {
-  style: "mapbox://styles/gabrielajorna/cm14xnacs007v01pdbh13dbgq",
+  style: "mapbox://styles/gabrielajorna/cm1kq3y81000401qk7yrvh5yx",
   accessToken: "pk.eyJ1IjoiZ2FicmllbGFqb3JuYSIsImEiOiJjbTE5a29wamIxNnZrMmlvaTV2cjJlajk5In0.bp0Rr_a9dZVGz8A0Q6Dwyg",
   showMarkers: false,
   theme: "light",
